@@ -5,8 +5,8 @@
 Programa de Pós Graduação em Engenharia Elétrica e de Computação (PPgEEC)
 
 *EEC1509 - APRENDIZAGEM DE MÁQUINA - T01 - 2022.1*
-
-Nome: Júlia Guardiani
+Professor: Ivanovich Silva
+Aluna: Júlia Guardiani
 
 DataSete: https://docs.google.com/spreadsheets/d/1gArz3sITUN0QrZPBv1969XDmddaWedUw/edit#gid=22897414
 
@@ -20,7 +20,7 @@ DataSete: https://docs.google.com/spreadsheets/d/1gArz3sITUN0QrZPBv1969XDmddaWed
  Nessa aplicação, foi utilizado os conhecimentos de Aprendizado de Máquina, Arvores de Decisão, K-means e Kbest. 
  
  
- Com a intenção de agrupar o DataSet em tres grupos de acordo características em comum como cada marca  diante dos resultados da TMB,
+ Com a intenção de agrupar o DataSet em tres grupos de acordo características em comum de cada marca  diante dos resultados da TMB,
  e os compromissos das empresas e para  posterioridade ser possível usar esses três tipos de grupos gerados como referência em 
  uma nova loja cadastrada, analisando onde o perfil mais se encaixa.
 
