@@ -25,3 +25,4 @@ DataSete: https://docs.google.com/spreadsheets/d/1gArz3sITUN0QrZPBv1969XDmddaWed
  uma nova loja cadastrada, analisando onde o perfil mais se encaixa.
 
 
+A API se encontra encontra em produção no Heruko : https://itmbrasil-app.herokuapp.com/docs
